@@ -1,7 +1,11 @@
-.text-block {
+.body-block {
     display: flex;
-    flex-direction: column;
-
-
 }
 
+.text-block .empty-div {
+    flex-grow: 1;
+}
+
+.text-block p {
+    flex-grow: 2;
+}

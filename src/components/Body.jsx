@@ -2,8 +2,9 @@ import './components.css';
 
 function Body () {
     return (
-        <div className='text-block'>
-            <div></div>
+        <div className='body-block'>
+            <div className='empty-div'></div>
+            <div className='text-block' >
             <p>
                 My name is Adam, a.k.a. 'Drummer Who Codes', and I am an aspiring front end web 
                 developer. My preferred tech stack is MERN, but I have also dabbled in Django for 
@@ -22,7 +23,8 @@ function Body () {
                 forward to taking these skills, as well as my newfound tech skills, into a exciting 
                 new opportunities.
             </p>
-            <div></div>
+            </div>
+            <div className='empty-div'></div>
         </div>
     )
 }
