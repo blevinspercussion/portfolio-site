@@ -1,10 +1,12 @@
 import './components.css';
+import Project from './Project';
 
-function Projects (projectTypes) {
+function Projects ({ projects }) {
     return (
         <div>
-            {projectTypes.map((type, index) => (
-                
+            <h1>Front End Projects</h1>
+            {projects.map((project, index) => (
+                <Project key={project.key} project={project} />
             ))}
         </div>
     )

@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './components/Header';
 import Body from './components/Body';
+import Projects from './components/Projects';
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       liveDemoUrl: "",
       codeUrl: "",
       imageUrl: "",
+      key: "memcard",
     },
     {
       title: "Store Front and Shopping Cart",
@@ -23,6 +25,7 @@ function App() {
       liveDemoUrl: "",
       codeUrl: "",
       imageUrl: "",
+      key: "storefront",
     },
   ]
 
@@ -32,7 +35,7 @@ function App() {
       <hr />
       <Body />
       <Projects  
-        projectTypes={projectTypes}
+        projects={projects}
         />
     </div>
   );
