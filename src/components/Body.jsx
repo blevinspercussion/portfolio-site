@@ -20,8 +20,8 @@ function Body () {
                 to make a career change into the technology industry. My background as a lifelong 
                 musician has taught me invaluable soft skills, such as: Perseverence, persitence, 
                 communication, self-teaching, being coachable, and active listening. I am looking 
-                forward to taking these skills, as well as my newfound tech skills, into a exciting 
-                new opportunities.
+                forward to taking these skills, as well as my newfound tech skills, into an exciting 
+                new career.
             </p>
             </div>
             <div className='empty-div'></div>
