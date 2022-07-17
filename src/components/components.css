@@ -25,6 +25,7 @@
 
 #project-cards-div {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .project-card {
