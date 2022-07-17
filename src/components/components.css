@@ -1,11 +1,12 @@
 .body-block {
     display: flex;
+
 }
 
-.text-block .empty-div {
+.body-block .empty-div {
     flex-grow: 1;
 }
 
-.text-block p {
-    flex-grow: 2;
+.body-block .text-block {
+    flex-basis: 50%;
 }
