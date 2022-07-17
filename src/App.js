@@ -2,6 +2,7 @@ import './App.css';
 import Header from './components/Header';
 import Body from './components/Body';
 import Projects from './components/Projects';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -46,6 +47,7 @@ function App() {
       <Projects  
         projects={projects}
         />
+      <Footer />
     </div>
   );
 }
