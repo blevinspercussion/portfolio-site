@@ -6,6 +6,9 @@ function Project ({ project }) {
             <h3>{project.title}</h3>
             <p>Tech stack: {project.tech}</p>
             <img src={require("./img/" + project.key + ".png")}></img>
+            <br />
+            <a href={project.codeUrl}>Github</a>
+            <a href={project.liveDemoUrl}>Live Demo</a>
         </div>
     )
 }

@@ -60,6 +60,16 @@ img {
     padding-bottom: 25px;
 }
 
+a {
+    color: var(--med-gray);
+    transition: 0.3s;
+}
+
+a:hover {
+    color: white;
+    transition: 0.3s;
+}
+
 @media (max-width: 900px) {
     #projects-div {
         display: flex;
