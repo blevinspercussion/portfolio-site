@@ -27,6 +27,15 @@ function App() {
       imageUrl: "",
       key: "storefront",
     },
+    {
+      title: "Personal Website",
+      type: "frontend",
+      tech: "HTML, CSS, React",
+      liveDemoUrl: "blevinspercussion.com",
+      codeUrl: "",
+      imageUrl: "",
+      key: "blevpercussion",
+    },
   ]
 
   return (
