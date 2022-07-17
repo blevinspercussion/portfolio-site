@@ -1,9 +1,11 @@
 import './components.css';
 
-function Projects () {
+function Projects (projectTypes) {
     return (
         <div>
-
+            {projectTypes.map((type, index) => (
+                
+            ))}
         </div>
     )
 }
