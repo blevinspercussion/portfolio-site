@@ -1,6 +1,7 @@
 :root {
     --dark-purple: rgb(42, 33, 49);
     --med-gray: rgb(182, 182, 182);
+    --card-bg: rgb(87, 74, 100);
   }
 
 .body-block {
@@ -37,5 +38,11 @@
     width: fit-content;
     padding: 15px;
     margin: 15px;
+    border-radius: 10px;
+    background-color: var(--card-bg);
+}
+
+img {
+    height: 200px;
     border-radius: 10px;
 }

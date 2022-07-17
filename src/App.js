@@ -25,7 +25,7 @@ function App() {
       liveDemoUrl: "",
       codeUrl: "",
       imageUrl: "",
-      key: "storefront",
+      key: "shop",
     },
     {
       title: "Personal Website",
@@ -34,7 +34,7 @@ function App() {
       liveDemoUrl: "blevinspercussion.com",
       codeUrl: "",
       imageUrl: "",
-      key: "blevpercussion",
+      key: "blevperc",
     },
   ]
 
