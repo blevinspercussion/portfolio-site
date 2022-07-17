@@ -1,5 +1,5 @@
 :root {
-  --soft-purple: rgb(85, 67, 100);
+  --dark-purple: rgb(42, 33, 49);
   --med-gray: rgb(182, 182, 182);
 }
 
@@ -11,6 +11,6 @@
 }
 
 body {
-  background-color: var(--soft-purple);
+  background-color: var(--dark-purple);
   color: var(--med-gray);
 }
