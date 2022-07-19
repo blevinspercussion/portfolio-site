@@ -42,6 +42,29 @@ function App() {
     },
   ]
 
+  const mockups = [
+    // {
+    //   title: "Expenses Chart",
+    //   type: "Front End Mockup",
+    //   tech: "HTML5, CSS, React",
+    //   liveDemoUrl: "",
+    //   codeUrl: "",
+    //   imageUrl: "",
+    //   key: "expenseschart",
+    //   about: "",
+    // },
+    {
+      title: "Intro With Dropdown Menus",
+      type: "Front End Mockup",
+      tech: "HTML5, CSS, vanilla Javascript, fully mobile responsive",
+      liveDemoUrl: "https://blevinspercussion.github.io/frontendmentor-intro-section-with-dropdown-menus/",
+      codeUrl: "https://github.com/blevinspercussion/frontendmentor-intro-section-with-dropdown-menus",
+      imageUrl: "",
+      key: "introwithdropdown",
+      about: "",
+    },
+  ]
+
   return (
     <div className="App">
       <Header />
@@ -49,6 +72,7 @@ function App() {
       <Body />
       <Projects  
         projects={projects}
+        mockups={mockups}
         />
       <Footer />
     </div>
