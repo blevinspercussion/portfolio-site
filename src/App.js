@@ -18,6 +18,7 @@ function App() {
       codeUrl: "https://github.com/blevinspercussion/memory-card",
       imageUrl: "",
       key: "memcard",
+      about: "<div><h1>Test</h1></div>",
     },
     {
       title: "Store Front and Shopping Cart",
@@ -27,6 +28,7 @@ function App() {
       codeUrl: "https://github.com/blevinspercussion/shopping-cart",
       imageUrl: "",
       key: "shop",
+      about: "",
     },
     {
       title: "Personal Website",
@@ -36,6 +38,7 @@ function App() {
       codeUrl: "",
       imageUrl: "",
       key: "blevperc",
+      about: "",
     },
   ]
 
