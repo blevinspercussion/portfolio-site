@@ -11,9 +11,6 @@ function Body () {
                 backend work. I am comfortable working in HTML5, CSS3, and vanilla Javascript (ES6) 
                 as well as React. I am also open to learning new technologies as the job may require.
             </p>
-            <p>
-                I believe in simple, effective design and simple, effective solutions.
-            </p>
 
             <p>
                 For the last eleven years I have worked as a professional musician, but I am looking 
