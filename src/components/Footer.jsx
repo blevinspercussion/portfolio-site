@@ -5,7 +5,7 @@ function Footer () {
         <div id='footer'>
             <hr />
             <div id='footer-text'>
-                Website design Copyright &copy; 2022, Adam Blevins, Drummer Who Codes
+                Website design Copyright &copy; 2022, Adam Blevins, adamb.codes
             </div>
         </div>
     )

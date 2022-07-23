@@ -20,6 +20,11 @@ function Body () {
                 forward to taking these skills, as well as my newfound tech skills, into an exciting 
                 new career.
             </p>
+            <p>
+                I am knowledgeable in the following technologies and languages: HTML5, CSS3, JavaScript (ES6), Python, JSON, 
+                Django, and React. I am currently learning: MongoDB, NodeJS, Go, and Express. I am interested in learning: Web Assembly, 
+                VueJS, Angular, Three.js, Babylon.js, WebXR, and more!
+            </p>
             </div>
             <div className='empty-div'></div>
         </div>

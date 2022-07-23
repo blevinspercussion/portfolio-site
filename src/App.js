@@ -63,6 +63,16 @@ function App() {
       key: "introwithdropdown",
       about: "",
     },
+    {
+      title: "Time Tracking Dashboard",
+      type: "Front End Mockup",
+      tech: "HTML5, CSS, vanilla Javascript, JSON, async/await, fully mobile responsive",
+      liveDemoUrl: "https://blevinspercussion.github.io/fem-time-tracking-dashboard-js/",
+      codeUrl: "https://github.com/blevinspercussion/fem-time-tracking-dashboard-js",
+      imageUrl: "",
+      key: "time-tracking-dashboard",
+      about: "",
+    },
   ]
 
   return (

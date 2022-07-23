@@ -16,7 +16,7 @@ function Projects ({ projects, mockups }) {
                 All of the projects in this section were completed from challenges on frontendmentor.com from assets and reference images that were supplied 
                 by frontendmentor.com. All code is my own.
             </p>
-            <div id='project-cards-div'>
+            <div className='project-cards-div'>
                 {mockups.map((project, index) => (
                     <Project key={project.key} project={project} />
                 ))}
