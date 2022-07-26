@@ -73,6 +73,16 @@ function App() {
       key: "time-tracking-dashboard",
       about: "",
     },
+    {
+      title: "Ecommerce Main Page",
+      type: "Front End Mockup",
+      tech: "HTML5, CSS, Javascript, React, fully mobile responsive",
+      liveDemoUrl: "https://blevinspercussion.github.io/fem-ecommerce-main-page/",
+      codeUrl: "https://github.com/blevinspercussion/fem-ecommerce-main-page",
+      imageUrl: "",
+      key: "ecommerce-main-page",
+      about: "",
+    },
   ]
 
   return (
